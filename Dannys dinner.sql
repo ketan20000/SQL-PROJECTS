@@ -1,4 +1,4 @@
---create database dannys_diner
+create database dannys_diner
 
 use  dannys_diner
 CREATE TABLE sales (
